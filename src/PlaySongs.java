@@ -6,7 +6,7 @@ public class PlaySongs {
             playAd(ads, premium);
             break;
             case 'N':
-            System.out.println("Thank you for choosing this song. Hope you enjoy listening to it.");
+            System.out.println("Thank you for choosing this song. It will play after one AD.");
             playAd(ads, premium);
             break;
         }
